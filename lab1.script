@@ -1,0 +1,16 @@
+Script started on Sun Mar 13 23:45:10 2016
+[?1034hbash-3.2$ whoami;[[Kpwd
+apple
+/Users/apple/desktop/monkey/programminglanguages/C++course
+bash-3.2$ git config -l
+user.name=MonkeyChuang
+user.email=j28823631@gmail.com
+bash-3.2$ git cloneh[K t[Khii[K[Kttps://git [Khub.com/MonkeyChuang/lab1.git
+Cloning into 'lab1'...
+remote: Counting objects: 3, done.[K
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects:  33% (1/3)   Unpacking objects:  66% (2/3)   Unpacking objects: 100% (3/3)   Unpacking objects: 100% (3/3), done.
+Checking connectivity... done.
+bash-3.2$ exit
+
+Script done on Sun Mar 13 23:46:14 2016
